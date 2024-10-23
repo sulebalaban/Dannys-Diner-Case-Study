@@ -15,11 +15,18 @@ menu
 members
 
 ## Case Study Questions
-Each of the following case study questions can be answered using a single SQL statement:
+Each of the following case study questions can be answered using a single SQL statement
+
 What is the total amount each customer spent at the restaurant?
+
 How many days has each customer visited the restaurant?
+
 What was the first item from the menu purchased by each customer?
+
 What is the most purchased item on the menu and how many times was it purchased by all customers?
+
 Which item was the most popular for each customer?
+
 Which item was purchased first by the customer after they became a member?
+
 If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
