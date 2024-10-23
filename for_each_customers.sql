@@ -1,3 +1,5 @@
+##What was the first item from the menu purchased by each customer?##
+
 WITH customer_purchase_counts AS (
     SELECT 
         s.customer_id, 
