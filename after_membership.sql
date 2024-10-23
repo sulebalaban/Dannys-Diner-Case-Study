@@ -1,3 +1,4 @@
+## Which item was purchased first by the customer after they became a member?##
 SELECT sales.customer_id,menu.product_name AS first_item_after_membership 
 FROM sales
 JOIN members
