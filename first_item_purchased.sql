@@ -1,3 +1,5 @@
+##What was the first item from the menu purchased by each customer?##
+  
 SELECT sales.customer_id,menu.product_name AS first_item_purchased
 FROM sales 
 JOIN menu 
