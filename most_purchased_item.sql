@@ -1,3 +1,4 @@
+##What is the most purchased item on the menu and how many times ##
 SELECT menu.product_name, COUNT(sales.product_id) AS purchase_count
 FROM sales
 JOIN menu 
